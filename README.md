@@ -7,7 +7,7 @@ The analysis is based on two datasets:
 
 📂 Phone_Sales: Contains transactions with detailed information about phone purchases, including customer demographics (gender, age range), product specifications (brand, color, carrier), payment method, and geographic location.
 
-📂 Accessories_Sales: Includes 29 records of accessory purchases, capturing product type, subcategory, and sales information. It links customer codes and transaction IDs with unit prices and sales values.
+📂 Accessories_Sales: Includes records of accessory purchases, capturing product type, subcategory, and sales information. It links customer codes and transaction IDs with unit prices and sales values.
 
 ## III. Main Process
 The project followed a structured data analysis process:
