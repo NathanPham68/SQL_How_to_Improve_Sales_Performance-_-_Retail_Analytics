@@ -1,4 +1,4 @@
-# phone_market_2015
+# SQL_phone_market_2015
 ## I. Introduction
 This project focuses on analyzing sales data from an electronics retail business, specifically centered around phone and accessory transactions. The primary goal is to extract meaningful insights from the data that can help improve sales strategies, understand customer preferences, and enhance product offerings.
 
