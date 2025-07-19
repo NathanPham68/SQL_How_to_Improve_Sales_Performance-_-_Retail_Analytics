@@ -1,4 +1,7 @@
 # SQL_phone_market_2015
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/5f25109b-0b96-4b92-ae7c-ea2b2e8a8849" />
+
 ## I. Introduction
 This project focuses on analyzing sales data from an electronics retail business, specifically centered around phone and accessory transactions. The primary goal is to extract meaningful insights from the data that can help improve sales strategies, understand customer preferences, and enhance product offerings.
 
