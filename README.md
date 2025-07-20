@@ -2,6 +2,17 @@
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/5f25109b-0b96-4b92-ae7c-ea2b2e8a8849" />
 
+## Table of Contents
+I. [📌 Introduction](#I.-Introduction)
+
+II. [📂 Dataset](#II.-Dataset)
+
+III. [🧠 Main Process](#III.-Main-Process)
+
+IV. [📊 Exploring the Dataset](#IV.-Exploring-the-Dataset)
+
+V. [🔎 Final Conclusion](#V.-Conclusion)
+
 ## I. Introduction
 This project focuses on analyzing sales data from an electronics retail business, specifically centered around phone and accessory transactions. The primary goal is to extract meaningful insights from the data that can help improve sales strategies, understand customer preferences, and enhance product offerings.
 
